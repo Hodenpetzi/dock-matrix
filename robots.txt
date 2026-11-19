@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hodenpetzi.github.io/dock-matrix/sitemap.xml
